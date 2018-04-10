@@ -1,0 +1,26 @@
+body {
+    font-family: Gotham Light,"M Hei PRC W45","M Hei HK W42","M Hei HK W40","HelveticaNeue-Regular","Helvetica Neue Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #666;
+    text-align:center;
+    margin: 0px;
+    }
+
+.header {
+    background-color: #222222; /*Note the perfect match using color picker*/
+    padding: 11px 0px 14px 0px;
+    text-align: center;
+}
+
+.header-logo {
+    height: 20px;
+}
+.hero-banner {
+    padding: 20vw 0;
+    background-image: url("../images/hero-dark.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:  #222222;
+    text-align: center;
+    color:white;
+}
